@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+  <category label="1010">
+    <setting id="username" type="text" label="1011" default="chobi0ne" />
+	<setting id="password" type="text" label="1012" default="eva5turbo" />
+  </category>
+  <category label="1020">
+      <setting id="quality" type="labelenum" label="1021" values="HD|SD" default="HD" />
+      <setting id="lang" type="labelenum" label="1022" values="Ru|En" default="Ru" />
+  </category>
+</settings>
